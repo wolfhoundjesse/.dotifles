@@ -1,0 +1,12 @@
+Xft.dpi: 282
+Xft.autohint: 0
+Xft.lcdfilter: clddefault
+Xft.hintstyle: hintfull
+Xft.hinting: 1
+Xft.antialias: 1
+Xft.rgba: rgb
+
+*.internalBorder: 10
+*.cursorUnderline: true
+*.cursorBlink: true
+*.dynamicColors: on
